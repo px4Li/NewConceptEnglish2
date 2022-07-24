@@ -2,6 +2,7 @@
 
 - [1. Unit 1](#1-unit-1)
   - [1.1. Lesson 1 A private conversation](#11-lesson-1-a-private-conversation)
+  - [1.2. Lesson 2 Breakfast or lunch?](#12-lesson-2-breakfast-or-lunch)
 
 
 # 1. Unit 1
@@ -86,3 +87,71 @@ Last week I went to the theatre. I had a very good seat. The play was very inter
 ```
 </div>
 </details>
+
+## 1.2. Lesson 2 Breakfast or lunch?
+<details><summary>单词</summary><div>
+- until (prep.)直到
+- outside (adv.):外面
+  - inside, upside, upside down
+- ring (v.) 响 (n.) 环
+  - ring, sing, drink, swim, begin
+- repeat (v.) 重复
+  - retell, rewrite, rediscover, rebroadcast重播
+</div></details>
+
+
+<details><summary>重点</summary><div>
+- 什么是时态：描述时间和状态
+- 如何体现：谓语动词的变化
+- 多少种：16
+
+- 一般现在时
+  - I tell you a secret.
+  - He tells you a secret.
+  - Your friend tells you a secret.
+  - We have the English class every day.
+  - I never get up early on Sundays.
+  - I sometimes stay in bed until lunchtime.
+  - He often gets up late.
+  - always, usually, frequently, often, sometimes, seldom, rarely, hardly, never...
+  - I am a teacher.
+  - It is one o'clock.
+  - The earth is round.
+  - The earth moves around the sun.
+  - Practice makes perfect.
+- 现在进行时
+  - I am having breakfast now.
+  - J.K. Rowling is writing another book this year.
+  - I am coming to see you.
+  - We are arriving at ...
+  - The old man is dying.
+  - It was Sunday.
+  - It is a terrible day! --> What a terrible day it is! --> What a day it is！ --> What a day!
+  - This is a wonderful world. -> What a wonderful world (this is)!
+  - It is a surprise. -> What a surprise it is!
+- vs.
+  - I am looking out of my window.
+  - I can see some children in the street.
+  - The children are playing football.
+  - They always play football in the street.
+  - Now a little boy is kicking the ball.
+  - Another boy is running after him but he can't catch him.
+- 抽象
+  - It was Sunday.
+  - It was dark outside.
+  - It was my aunt Lucy.
+</div></details>
+
+<details><summary>课文内容</summary><div>
+
+```
+It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lunchtime. Last Sunday I got up very late. I looked out of the window. It was dark outside. 'What a day!' I thought. 'It's raining again.' Just then, the telephone rang. It was my aunt Lucy. 'I've just arrived by train,' she said. I'm coming to see you.'
+	'But I'm still having breakfast,' I said.
+	'What are you doing?' she asked.
+	'I'm having breakfast,' I repeated. 
+	'Dear me,' she said. ' Do you always get up so late? It's one o'clock!'
+```
+
+</div></details>
+
+ 
