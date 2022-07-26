@@ -155,3 +155,49 @@ It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lu
 </div></details>
 
  
+## Lesson 3 Please send me a card
+<details><summary>单词</summary><div>
+- send v. 寄，送 
+  - send a card/ a message/ a letter
+  - send me a card = send a card to me
+- spoil v. 损坏，毁坏(精神上的）（damage,destroy,ruin)
+  - Postcards always spoil my holidays
+- public adj. 公共的 n. 大众
+  - public gardens/ schools/ opinions
+  - The museum is open to the public on Sundays.
+- friendly adj. 有好的 
+  - He is friendly to all of us.
+  - a friendly waiter
+- postcard n. 明信片 
+- waiter n. (男)服务员 
+- lend v. 借给
+  - lend me a book = lend a book to me
+  - Can you lend me 200 dollars?
+  - borrow 借入
+- decision n. 决定
+  - It is my final decision.
+  - I made a big decision.
+  - decide v. 决定
+    - I decided to go abroad for further education.
+- whole adj. 整个的
+- single adj. 单一的
+</div></details>
+
+
+<details><summary>重点</summary><div>
+- 一般过去时(完全发生在过去）
+  - 形式：v.过去式
+  - 用法：有明确的时间，过去的动作
+  - Mary and I talked about your book hours ago.
+  - They had a meeting yesterday.
+  - Tom was a student when he was ten years old.
+  - Did they have a meeting?
+  - They did not have a meeting.
+- 主谓双宾：人+物
+</div></details>
+
+<details><summary>课文内容</summary><div>
+```
+Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Every day I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a signle card!
+```
+</div></details>
