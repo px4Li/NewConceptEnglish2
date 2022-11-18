@@ -207,7 +207,16 @@ Postcards always spoil my holidays. Last summer, I went to Italy. I visited muse
 Six men have been trapped in a mine for seventeen hours. If they are not brought to the surface soon they may lose their lives. However, rescue operations are proving difficult. If explosives are used, vibrations will cause the roof of the mine to collapse. Rescue workers are therefore drilling a hole on the north side of the mine. They intend to bring the men up in a special capsule. If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours. As it is, they have been drilling for sixteen hours and they still have a long way to go. Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives. Though they are running out of food and drink, the men are cheerful and confident that they will get out soon. They have been told that rescue operations are progressing smoothly. If they knew how difficult it was to drill throught the hard rock, they would lose heart.
 
 
+### Lesson 95 A fantasy
 
+When the Ambassador of Escalopia returned home for lunch, his wife got a shock. He looked pale and his clothes were in a frightful state.
+	'What has happened?' She asked. 'How did your clothes get into such a mess?'
+	'A fire extinguisher, my dear,' answered the Ambassador drily. 'University students set the Embassy on fire this morning.'
+	'Good heavens!' exclaimed his wife. 'And where were you at the time?'
+	'I was in my office as usual,' answered the Ambassador. 'The fire broke out in the basement. I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me. He thought I was on fire. I must definitely get that fellow posted.'
+	The Ambassador's wife went on asking questions, when she suddenly noticed a big hole in her husband's hat.
+	'And how can you explain that?' she asked.
+	'Oh, that,' said the Ambassador. 'Someone fired a shot through my office window. Accurate, don't you think? Forunately, I wasn't wearing it at the time. If I had been, I would not have been able to get home for lunch.'
 
 ### Lesson 96 The dead return
 
